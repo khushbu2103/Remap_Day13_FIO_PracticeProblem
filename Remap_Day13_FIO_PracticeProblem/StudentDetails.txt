@@ -1,0 +1,4 @@
+﻿Id : 1
+Name : Khushi
+PhoneNumber : 8619532017
+Age : 27
